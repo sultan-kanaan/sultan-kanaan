@@ -9,7 +9,9 @@
 " /> </p>
 
 
- <a  align="right" href="https://app.daily.dev/BoshraJaber"><img align="right" src="https://api.daily.dev/devcards/fb1ac408e9414da6a7a120477aa59bac.png?r=gjx" width="400" alt="Boshra Jaber's Dev Card"/></a>
+ <a  align="right" href="https://app.daily.dev/sultan-kanaan
+"><img align="right" src="https://api.daily.dev/devcards/fb1ac408e9414da6a7a120477aa59bac.png?r=gjx" width="400" alt="sultan-kanaan
+'s Dev Card"/></a>
 
 
 
